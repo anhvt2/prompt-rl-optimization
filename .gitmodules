@@ -7,3 +7,6 @@
 [submodule "Prompt-R1"]
 	path = Prompt-R1
 	url = https://github.com/QwenQKing/Prompt-R1
+[submodule "Stableprompt"]
+	path = Stableprompt
+	url = https://github.com/kmc0207/Stableprompt
