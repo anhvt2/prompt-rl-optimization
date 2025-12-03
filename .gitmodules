@@ -4,3 +4,6 @@
 [submodule "Prompt-OIRL"]
 	path = Prompt-OIRL
 	url = https://github.com/vanderschaarlab/Prompt-OIRL
+[submodule "Prompt-R1"]
+	path = Prompt-R1
+	url = https://github.com/QwenQKing/Prompt-R1
