@@ -1,0 +1,3 @@
+[submodule "rl-prompt"]
+	path = rl-prompt
+	url = https://github.com/mingkaid/rl-prompt
